@@ -1,4 +1,4 @@
-package org.example.homework;
+package org.example.homework.nightclub;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

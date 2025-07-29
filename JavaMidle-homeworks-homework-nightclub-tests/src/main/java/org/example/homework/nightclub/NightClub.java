@@ -1,4 +1,4 @@
-package org.example.homework;
+package org.example.homework.nightclub;
 
 public class NightClub {
     private int places = 10; // Вместимость клуба — 10 человек

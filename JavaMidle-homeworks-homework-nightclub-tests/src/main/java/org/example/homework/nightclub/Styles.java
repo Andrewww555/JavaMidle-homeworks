@@ -1,4 +1,4 @@
-package org.example.homework;
+package org.example.homework.nightclub;
 
 public enum Styles {
     CASUAL,  // повседневный стиль
